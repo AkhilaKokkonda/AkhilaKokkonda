@@ -43,7 +43,7 @@ I'm a **Computer Science Engineering student** (B.Tech, graduating 2027) and an 
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 | **CS Fundamentals** | Data Structures • Object-Oriented Programming (OOPs) • DBMS |
-| **Strengths** | Problem-Solving • Basic Debugging • Bug Fixing |
+| **Strengths** | Problem-Solving • Basic Debugging |
 
 ---
 
