@@ -61,9 +61,7 @@ An AI-powered Streamlit platform for real-time news exploration and analysis. It
 - 😊 Perform sentiment analysis
 - 📈 Visualize news patterns interactively
 
-<a href="https://github.com/AkhilaKokkonda/Newspluse_Final">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKokkonda&repo=Newspluse_Final&theme=tokyonight&hide_border=true" alt="NewsPulse repository" />
-</a>
+🔗 [View Repository](https://github.com/AkhilaKokkonda/Newspluse_Final)
 
 ---
 
@@ -80,9 +78,7 @@ A Django-based web application for doctor-patient appointment booking, with Tele
 - 🔄 Online appointment cancellation and rescheduling
 - 🖥️ Improved dashboard and user experience
 
-<a href="https://github.com/AkhilaKokkonda/SmartHealthcareAppointment">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKokkonda&repo=SmartHealthcareAppointment&theme=tokyonight&hide_border=true" alt="Smart Healthcare Appointment repository" />
-</a>
+🔗 [View Repository](https://github.com/AkhilaKokkonda/SmartHealthcareAppointment)
 
 ---
 
@@ -141,17 +137,6 @@ An AI-powered travel assistant built as an interactive Flask web application.
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-8E75B2?style=flat-square)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AkhilaKokkonda&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilaKokkonda&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AkhilaKokkonda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ## 🧮 Problem Solving
 
